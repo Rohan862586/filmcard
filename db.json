@@ -1,0 +1,205 @@
+{
+    "contacts": [
+      {
+        "id": "1",
+        "name": "dipesh",
+        "address": "dipesh@gamil.com",
+        "img": "images/img8.jpg",
+        "Title": "New movie",
+        "Year": "2020",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+
+      },
+      {
+        "id": "2",
+        "name": "rohan",
+        "address": "rohan@gamil.com",
+        "img": "images/img2.jpg",
+        "Title": "New movie",
+        "Year": "2012",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "3",
+        "name": "odel",
+        "address": "odel@gamil.com",
+        "img": "images/img3.jpg",
+        "Title": "New movie",
+        "Year": "2023",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "4",
+        "name": "ankush",
+        "address": "ankush@gamil.com",
+        "img": "images/img4.jpg",
+        "Title": "New movie",
+        "Year": "2021",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "5",
+        "name": "joke",
+        "address": "joke@gamil.com",
+        "img": "images/img5.jpg",
+        "Title": "New movie",
+        "Year": "2022",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "6",
+        "name": "atharva",
+        "address": "joke@gamil.com",
+        "img": "images/img6.jpg",
+        "Title": "New movie",
+        "Year": "2022",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "7",
+        "name": "atharva",
+        "address": "joke@gamil.com",
+        "img": "images/img7.jpg",
+        "Title": "New movie",
+        "Year": "2022",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "8",
+        "name": "atharva",
+        "address": "joke@gamil.com",
+        "img": "images/img8.jpg",
+        "Title": "New movie",
+        "Year": "2022",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "9",
+        "name": "dipesh",
+        "address": "dipesh@gamil.com",
+        "img": "images/img8.jpg",
+        "Title": "New movie",
+        "Year": "2020",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "10",
+        "name": "rohan",
+        "address": "rohan@gamil.com",
+        "img": "images/img2.jpg",
+        "Title": "New movie",
+        "Year": "2012",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "11",
+        "name": "odel",
+        "address": "odel@gamil.com",
+        "img": "images/img3.jpg",
+        "Title": "New movie",
+        "Year": "2023",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "12",
+        "name": "ankush",
+        "address": "ankush@gamil.com",
+        "img": "images/img4.jpg",
+        "Title": "New movie",
+        "Year": "2021",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "13",
+        "name": "joke",
+        "address": "joke@gamil.com",
+        "img": "images/img5.jpg",
+        "Title": "New movie",
+        "Year": "2022",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "14",
+        "name": "ashish",
+        "address": "joke@gamil.com",
+        "img": "images/img6.jpg",
+        "Title": "New movie",
+        "Year": "2022",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "15",
+        "name": "akshay",
+        "address": "joke@gamil.com",
+        "img": "images/img7.jpg",
+        "Title": "New movie",
+        "Year": "2022",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "16",
+        "name": "akshay",
+        "address": "joke@gamil.com",
+        "img": "images/img8.jpg",
+        "Title": "New movie",
+        "Year": "2022",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "17",
+        "name": "ashish",
+        "address": "joke@gamil.com",
+        "img": "images/img7.jpg",
+        "Title": "New movie",
+        "Year": "2022",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      },
+      {
+        "id": "18",
+        "name": "ashish",
+        "address": "joke@gamil.com",
+        "img": "images/img8.jpg",
+        "Title": "New movie",
+        "Year": "2022",
+        "Director":"sid sriram",
+        "Star":"5",
+        "Languages": "English"
+      }
+    ]
+  }
+  
+  
